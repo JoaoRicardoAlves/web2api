@@ -116,7 +116,7 @@ Content-Type: application/json
 
 ## 📚 Estrutura do Projeto
 
-\`\`\`
+```
 ├── app/
 │   ├── api/
 │   │   ├── users/
@@ -137,7 +137,7 @@ Content-Type: application/json
 ├── prisma/
 │   └── schema.prisma
 └── README.md
-\`\`\`
+```
 
 ## 🎯 Recursos Implementados
 
